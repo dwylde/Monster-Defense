@@ -1,0 +1,5 @@
+name: MonsterDefense
+
+main: com.bukkit.dwylde.MonsterDefense
+
+version: 0.1
